@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>kw.png</file>
+        <file>modul.png</file>
+        <file>tlo.png</file>
+    </qresource>
+</RCC>
